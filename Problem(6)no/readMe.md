@@ -1,6 +1,8 @@
 Ensure the Cart Contains at Least One Product
 
-Description: Write a function that accepts an array (representing the cart) and checks if it contains at least one product.
+Description: Write a function that 
+accepts an array (representing the cart) and checks 
+if it contains at least one product.
 
 Step #1
 Input : ProductPrice
